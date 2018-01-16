@@ -2,13 +2,13 @@ YOTI assignment - Roomba
 
 One example change.
 
-- I have developed the code in 
+- The code is developed in
 NetBeans 8.2
 Java version 1.8.0_121
 Mongodb version 3.4.7
 Maven version 3.5.0
 
-- Build and Run the web application 
+- Build and Run the web application
 
 In Netbeans open the project
 "Clean and Build" the project
